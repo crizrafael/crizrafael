@@ -7,7 +7,24 @@
 
 - 📫 Você me acha através do meu Linkedin **https://www.linkedin.com/in/cristianrafael007/**
 
-- 📄 Minhas experiências profissionais [Atualmente, atuo como Técnico de Suporte TI Pleno no Instituto SENAI de Inovação da FIESC, onde meu foco está em fortalecer a infraestrutura de TI e otimizar sistemas para projetos inovadores. Com formação avançada em MBA de Tecnologia para Negócios e especialização em Análise e Desenvolvimento de Sistemas, aplico conhecimentos de AI, Data Science e Big Data para impulsionar a eficiência operacional e suportar a evolução tecnológica da organização.](Atualmente, atuo como Técnico de Suporte TI Pleno no Instituto SENAI de Inovação da FIESC, onde meu foco está em fortalecer a infraestrutura de TI e otimizar sistemas para projetos inovadores. Com formação avançada em MBA de Tecnologia para Negócios e especialização em Análise e Desenvolvimento de Sistemas, aplico conhecimentos de AI, Data Science e Big Data para impulsionar a eficiência operacional e suportar a evolução tecnológica da organização.)
+- 📄 Profissional de Tecnologia da Informação com mais de 4 anos de experiência em suporte 
+técnico, infraestrutura, redes e análise de dados. Atuo com excelência na resolução de 
+incidentes, manutenção preventiva, monitoramento de sistemas e controle de ativos de TI. 
+Fui aprovado em um processo seletivo interno dentro do Exército para atuar diretamente 
+na minha área de formação, e mais recentemente, conquistei a primeira colocação em uma 
+vaga de nível pleno na FIESC, superando candidatos mais experientes.
+
+No Instituto SENAI de Inovação, sou responsável por toda a estrutura de TI — incluindo 
+administração de servidores, Active Directory, redes, CFTV, softwares e atendimento 
+remoto. Também elaboro documentação técnica, acompanho indicadores e proponho 
+soluções que otimizam a infraestrutura tecnológica da organização. Minhas vivências 
+incluem ambientes de alta exigência, como o setor militar, e ambientes de inovação e 
+transformação digital.
+
+Trago um perfil técnico, estratégico e adaptável, com foco em resultados e melhoria 
+contínua. Minhas principais competências técnicas envolvem gestão de infraestrutura, 
+análise de dados (Power BI, SQL Server), suporte de nível pleno, administração de 
+sistemas (Windows Server, Active Directory) e documentação de processos.
 
 - ⚡ Fatos curisos **Eu amo jogar jogos onlines, esportes e maratonar séries**
 
